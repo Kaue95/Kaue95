@@ -1,11 +1,11 @@
-## Ola, me chamo Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=30px />
+## Olá, me chamo Kaue <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=30px />
 
-📚 Atualmente estou cursando desenvolvimento de sistemas na etec 🖥
+📚 Atualmente estou cursando Análise em Desenvolvimento de Sistemas na Etec 🖥
 
 <div>
   
   
-  🔥 Desenvolvedor FullStack/Back-end
+  🔥 Desenvolvedor FullStack
   
   🧐 Inglês Avançado  
 </div>
@@ -44,10 +44,6 @@
   
   
 <!--
-### Hi there 👋
-**VictorFiveX/VictorFiveX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-VictorFiveX
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
