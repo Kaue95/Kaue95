@@ -1,6 +1,6 @@
 ## Olá, me chamo Kaue <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=30px />
 
-📚 Atualmente estou cursando Análise em Desenvolvimento de Sistemas na Etec 🖥
+Técnico em Desenvolvimento de Sistemas🖥
 
 <div>
   
