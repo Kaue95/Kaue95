@@ -1,6 +1,6 @@
-## Olá, me chamo Kaue <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=30px />
+## Olá, me chamo Kaue Vinicius 
 
-Técnico em Desenvolvimento de Sistemas🖥
+🖥 Técnico em Desenvolvimento de Sistemas
 
 <div>
   
