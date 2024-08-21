@@ -1,12 +1,7 @@
 ## Olá, me chamo Kaue Vinicius 
 
-🖥  Técnico em Desenvolvimento de Sistemas
-
-💻 Cursando Data Science - Fiap
+Cientista de Dados | Técnico em Desenvolvimento de Sistemas | SQL | Python | Gestão de Dados | Machine Learning | Deep Learning | IA | Ánalise de NPS | Data Warehousing | Modelo Preditivo | DATA ANALYTICS | IA GENERATIVA
 <div>
-  
-  
-  🔥 Desenvolvedor FullStack
   
   🧐 Inglês Avançado  
 </div>
