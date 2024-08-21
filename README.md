@@ -1,6 +1,7 @@
 ## Olá, me chamo Kaue Vinicius 
 
 🖥  Técnico em Desenvolvimento de Sistemas
+
 💻 Cursando Data Science - Fiap
 <div>
   
