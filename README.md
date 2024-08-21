@@ -1,6 +1,5 @@
 ## Olá, me chamo Kaue Vinicius 
 
-Cientista de Dados | Técnico em Desenvolvimento de Sistemas | SQL | Python | Gestão de Dados | Machine Learning | Deep Learning | IA | Ánalise de NPS | Data Warehousing | Modelo Preditivo | Data Analytics | IA Generativa
 <div>
   
 </div>
