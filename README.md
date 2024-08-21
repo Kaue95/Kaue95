@@ -3,7 +3,6 @@
 Cientista de Dados | Técnico em Desenvolvimento de Sistemas | SQL | Python | Gestão de Dados | Machine Learning | Deep Learning | IA | Ánalise de NPS | Data Warehousing | Modelo Preditivo | DATA ANALYTICS | IA GENERATIVA
 <div>
   
-  🧐 Inglês Avançado  
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaue95&count_private=true&show_icons=true&theme=radical)
